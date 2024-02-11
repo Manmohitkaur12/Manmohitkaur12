@@ -8,7 +8,7 @@ I am final year student of computer science and engineering and looking forward 
 
 * 🌍  I'm based in INDIA
 * ✉️  You can contact me at [manmohitkaur12@gmail.com](mailto:manmohitkaur12@gmail.com)
-* 🧠  I'm learning back end devlopment
+* 🧠  I'm learning front end and back end devlopment
 * 🤝  I'm open to collaborating on projects
 * ⚡  I Am Power Ranger ,tell everyone
 
